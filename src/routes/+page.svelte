@@ -76,8 +76,14 @@
         border: none;
         border-radius: 4px;
         cursor: pointer;
-        background-color: rgb(78, 131, 131);
-		animation: breathe 180s linear infinite;
+        background-color: rgba(0, 0, 0, 0.25);	
+        /* Transition */
+        transition: 0.5s;	
+        /*animation: breathe 180s linear infinite;*/
+    }
+    button:hover{
+        background-color: rgba(0, 0, 0, 0.5);
+
     }
     .copyrightText{
         color: rgb(255, 255, 255);
