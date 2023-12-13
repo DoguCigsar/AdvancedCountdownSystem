@@ -41,7 +41,7 @@
         window.location.href = "/custom/" + encoded;
     }}>Submit</button>
     </div>
-    <h4 class="copyrightText"> Copyright © COS-Soft 2022</h4>
+    <h4 class="copyrightText"> Copyright © COS-Soft 2023</h4>
 </main>
 
 <style>
